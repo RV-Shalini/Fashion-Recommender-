@@ -21,7 +21,7 @@ I developed the machine learning recommender system that powers the project:
 	•	Managing performance issues when working with large image and interaction datasets.
 	•	Ensuring smooth backend–frontend integration for real-time recommendations.
 
-⸻
+
 
 # Accomplishments 😎
 •	Successfully built a dynamic, ML-powered recommendation engine.
